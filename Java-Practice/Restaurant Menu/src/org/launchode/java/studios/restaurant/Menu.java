@@ -13,7 +13,6 @@ public class Menu {
         this.dateUpdated = dateUpdated;
     }
 
-
     public ArrayList<MenuItem> getMenuItems() {
         return menuItems;
     }
@@ -29,7 +28,6 @@ public class Menu {
     public void setDateUpdated(Date dateUpdated) {
         this.dateUpdated = dateUpdated;
     }
-
 
     public static void main(String[] args) {
     }
